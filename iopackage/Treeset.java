@@ -4,7 +4,7 @@ class Treeset {
 public static void main(String[] args) {
 	
 
-	TreeSet t=new TreeSet(new Mycomparator());
+	TreeSet<Integer> t=new TreeSet<Integer>(new Mycomparator());
 	t.add(20);
 	t.add(50);
 	t.add(25);
@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	System.out.println(t);
 
 }			}
-class Mycomparator implements Comparator{
+class Mycomparator implements Comparator<Object>{
 	public int compare(Object obj1,Object obj2){
 		Integer I1=(Integer)obj1;
 		Integer I2=(Integer)obj2;
