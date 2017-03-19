@@ -7,6 +7,7 @@ public class PrimeNumbers {
 
 		int max = 10000;
 		int i, j;
+		long k=600851475143l;
 		boolean isPrime = true;
 
 		for (i = 2; i <= max; i++) {
@@ -17,8 +18,8 @@ public class PrimeNumbers {
 				}
 			}
 			if (isPrime) {
-				System.out.println(i);
-			}
+			if(k%i==0)	{System.out.println(i);
+			}}
 			isPrime = true;
 		}
 	}
