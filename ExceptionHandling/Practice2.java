@@ -2,9 +2,7 @@ package ExceptionHandling;
 
 class InsufficientFundsException extends RuntimeException
 {
-/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 
 InsufficientFundsException(String s)
@@ -15,9 +13,6 @@ InsufficientFundsException(String s)
 class WithdrawLimitException extends RuntimeException
 {
 
-/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 WithdrawLimitException(String s)
