@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author pradeep
- *
- */
-package JavaPractice;
