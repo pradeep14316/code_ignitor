@@ -1,32 +1,26 @@
 package iopackage;
 
 import java.io.*;
-import org.json.*;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-
-import com.google.gson.JsonArray;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
+import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
+import org.w3c.dom.Node;
+import org.w3c.dom.Element;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 
 public class JsonExtract {
-	private static String jsonfile = "/home/pradeep/Downloads/got.json";
-
 	public static void main(String[] args) throws FileNotFoundException {
 		try {
-			FileReader in = new FileReader(jsonfile);
-			JsonObject jsonObject = (JsonObject) new JsonParser().parse(in);
-			long ID = (long) jsonObject.get("id");
-			String URL = (String) jsonObject.get("url");
-			System.out.println(ID + "," + URL);
-
-			JsonArray lang = (JsonArray) jsonObject.get("episodes");
-			for (int i = 0; i < lang.size(); i++) {
-				System.out.println("Episodes DataArray :" + lang.get(i) + "\n");
-			}
-			in.close();
-		} catch (Exception e) {
-			System.out.println(e);
+			File xml = new File("/home/pradeep/Downloads/ebay.xml");
+			DocumentBuilderFactory factory = DocumentBuilderFactory
+					.newInstance();
+			DocumentBuilder builder = factory.newDocumentBuilder();
+			Document doc = builder.parse(xml);
+			doc.getDocumentElement().normalize();
+			System.out.println("Root element :"
+					+ doc.getDocumentElement().getNodeName());
+			NodeList nList = doc.getElementsByTagName("listing");
+		} catch (Exception e) {System.out.println(e);
 		}
 
 	}

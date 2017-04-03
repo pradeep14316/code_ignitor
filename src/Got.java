@@ -54,10 +54,9 @@ public class Got {
 			System.out.println("****************" + episodes.size());
 			System.out.println(embedded);
 		} catch (JsonIOException | JsonSyntaxException | FileNotFoundException e) {
-			// TODO Auto-generated catch block
+		
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 

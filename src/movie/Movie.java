@@ -29,6 +29,14 @@ public class Movie {
 		public void setTimestamp(String timestamp) {
 			this.timestamp = timestamp;
 		}
+		public void setJunk(double parseDouble) {
+			// TODO Auto-generated method stub
+			
+		}
+		public String getJunk() {
+			// TODO Auto-generated method stub
+			return null;
+		}
 
 		
 }

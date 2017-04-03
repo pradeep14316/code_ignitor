@@ -1,0 +1,62 @@
+id,name,url,season,number,runtime
+4952,Winter is Coming,http://www.tvmaze.com/episodes/4952/game-of-thrones-1x01-winter-is-coming,1,1,60
+4953,The Kingsroad,http://www.tvmaze.com/episodes/4953/game-of-thrones-1x02-the-kingsroad,1,2,60
+4954,Lord Snow,http://www.tvmaze.com/episodes/4954/game-of-thrones-1x03-lord-snow,1,3,60
+4955,Cripples, Bastards, and Broken Things,http://www.tvmaze.com/episodes/4955/game-of-thrones-1x04-cripples-bastards-and-broken-things,1,4,60
+4956,The Wolf and the Lion,http://www.tvmaze.com/episodes/4956/game-of-thrones-1x05-the-wolf-and-the-lion,1,5,60
+4957,A Golden Crown,http://www.tvmaze.com/episodes/4957/game-of-thrones-1x06-a-golden-crown,1,6,60
+4958,You Win or You Die,http://www.tvmaze.com/episodes/4958/game-of-thrones-1x07-you-win-or-you-die,1,7,60
+4959,The Pointy End,http://www.tvmaze.com/episodes/4959/game-of-thrones-1x08-the-pointy-end,1,8,60
+4960,Baelor,http://www.tvmaze.com/episodes/4960/game-of-thrones-1x09-baelor,1,9,60
+4961,Fire and Blood,http://www.tvmaze.com/episodes/4961/game-of-thrones-1x10-fire-and-blood,1,10,60
+4962,The North Remembers,http://www.tvmaze.com/episodes/4962/game-of-thrones-2x01-the-north-remembers,2,1,60
+4963,The Night Lands,http://www.tvmaze.com/episodes/4963/game-of-thrones-2x02-the-night-lands,2,2,60
+4964,What is Dead May Never Die,http://www.tvmaze.com/episodes/4964/game-of-thrones-2x03-what-is-dead-may-never-die,2,3,60
+4965,Garden of Bones,http://www.tvmaze.com/episodes/4965/game-of-thrones-2x04-garden-of-bones,2,4,60
+4966,The Ghost of Harrenhal,http://www.tvmaze.com/episodes/4966/game-of-thrones-2x05-the-ghost-of-harrenhal,2,5,60
+4967,The Old Gods and the New,http://www.tvmaze.com/episodes/4967/game-of-thrones-2x06-the-old-gods-and-the-new,2,6,60
+4968,A Man Without Honor,http://www.tvmaze.com/episodes/4968/game-of-thrones-2x07-a-man-without-honor,2,7,60
+4969,The Prince of Winterfell,http://www.tvmaze.com/episodes/4969/game-of-thrones-2x08-the-prince-of-winterfell,2,8,60
+4970,Blackwater,http://www.tvmaze.com/episodes/4970/game-of-thrones-2x09-blackwater,2,9,60
+4971,Valar Morghulis,http://www.tvmaze.com/episodes/4971/game-of-thrones-2x10-valar-morghulis,2,10,60
+4972,Valar Dohaeris,http://www.tvmaze.com/episodes/4972/game-of-thrones-3x01-valar-dohaeris,3,1,60
+4973,Dark Wings, Dark Words,http://www.tvmaze.com/episodes/4973/game-of-thrones-3x02-dark-wings-dark-words,3,2,60
+4974,Walk of Punishment,http://www.tvmaze.com/episodes/4974/game-of-thrones-3x03-walk-of-punishment,3,3,60
+4975,And Now His Watch is Ended,http://www.tvmaze.com/episodes/4975/game-of-thrones-3x04-and-now-his-watch-is-ended,3,4,60
+4976,Kissed by Fire,http://www.tvmaze.com/episodes/4976/game-of-thrones-3x05-kissed-by-fire,3,5,60
+4977,The Climb,http://www.tvmaze.com/episodes/4977/game-of-thrones-3x06-the-climb,3,6,60
+4978,The Bear and the Maiden Fair,http://www.tvmaze.com/episodes/4978/game-of-thrones-3x07-the-bear-and-the-maiden-fair,3,7,60
+4979,Second Sons,http://www.tvmaze.com/episodes/4979/game-of-thrones-3x08-second-sons,3,8,60
+4980,The Rains of Castamere,http://www.tvmaze.com/episodes/4980/game-of-thrones-3x09-the-rains-of-castamere,3,9,60
+4981,Mhysa,http://www.tvmaze.com/episodes/4981/game-of-thrones-3x10-mhysa,3,10,60
+4982,Two Swords,http://www.tvmaze.com/episodes/4982/game-of-thrones-4x01-two-swords,4,1,60
+4983,The Lion and the Rose,http://www.tvmaze.com/episodes/4983/game-of-thrones-4x02-the-lion-and-the-rose,4,2,60
+4984,Breaker of Chains,http://www.tvmaze.com/episodes/4984/game-of-thrones-4x03-breaker-of-chains,4,3,60
+4985,Oathkeeper,http://www.tvmaze.com/episodes/4985/game-of-thrones-4x04-oathkeeper,4,4,60
+4986,First of His Name,http://www.tvmaze.com/episodes/4986/game-of-thrones-4x05-first-of-his-name,4,5,60
+4987,The Laws of Gods and Men,http://www.tvmaze.com/episodes/4987/game-of-thrones-4x06-the-laws-of-gods-and-men,4,6,60
+4988,Mockingbird,http://www.tvmaze.com/episodes/4988/game-of-thrones-4x07-mockingbird,4,7,60
+4989,The Mountain and the Viper,http://www.tvmaze.com/episodes/4989/game-of-thrones-4x08-the-mountain-and-the-viper,4,8,60
+4990,The Watchers on the Wall,http://www.tvmaze.com/episodes/4990/game-of-thrones-4x09-the-watchers-on-the-wall,4,9,60
+4991,The Children,http://www.tvmaze.com/episodes/4991/game-of-thrones-4x10-the-children,4,10,60
+116522,The Wars to Come,http://www.tvmaze.com/episodes/116522/game-of-thrones-5x01-the-wars-to-come,5,1,60
+144328,The House of Black and White,http://www.tvmaze.com/episodes/144328/game-of-thrones-5x02-the-house-of-black-and-white,5,2,60
+144329,High Sparrow,http://www.tvmaze.com/episodes/144329/game-of-thrones-5x03-high-sparrow,5,3,60
+144330,Sons of the Harpy,http://www.tvmaze.com/episodes/144330/game-of-thrones-5x04-sons-of-the-harpy,5,4,60
+151777,Kill the Boy,http://www.tvmaze.com/episodes/151777/game-of-thrones-5x05-kill-the-boy,5,5,60
+152766,Unbowed, Unbent, Unbroken,http://www.tvmaze.com/episodes/152766/game-of-thrones-5x06-unbowed-unbent-unbroken,5,6,60
+153327,The Gift,http://www.tvmaze.com/episodes/153327/game-of-thrones-5x07-the-gift,5,7,60
+155299,Hardhome,http://www.tvmaze.com/episodes/155299/game-of-thrones-5x08-hardhome,5,8,60
+160040,The Dance of Dragons,http://www.tvmaze.com/episodes/160040/game-of-thrones-5x09-the-dance-of-dragons,5,9,60
+162186,Mother's Mercy,http://www.tvmaze.com/episodes/162186/game-of-thrones-5x10-mothers-mercy,5,10,60
+560813,The Red Woman,http://www.tvmaze.com/episodes/560813/game-of-thrones-6x01-the-red-woman,6,1,60
+664672,Home,http://www.tvmaze.com/episodes/664672/game-of-thrones-6x02-home,6,2,60
+664673,Oathbreaker,http://www.tvmaze.com/episodes/664673/game-of-thrones-6x03-oathbreaker,6,3,60
+664674,Book of the Stranger,http://www.tvmaze.com/episodes/664674/game-of-thrones-6x04-book-of-the-stranger,6,4,60
+664675,The Door,http://www.tvmaze.com/episodes/664675/game-of-thrones-6x05-the-door,6,5,60
+664676,Blood of My Blood,http://www.tvmaze.com/episodes/664676/game-of-thrones-6x06-blood-of-my-blood,6,6,60
+717449,The Broken Man,http://www.tvmaze.com/episodes/717449/game-of-thrones-6x07-the-broken-man,6,7,60
+729573,No One,http://www.tvmaze.com/episodes/729573/game-of-thrones-6x08-no-one,6,8,60
+729574,Battle of the Bastards,http://www.tvmaze.com/episodes/729574/game-of-thrones-6x09-battle-of-the-bastards,6,9,60
+729575,The Winds of Winter,http://www.tvmaze.com/episodes/729575/game-of-thrones-6x10-the-winds-of-winter,6,10,69
+937256,TBA,http://www.tvmaze.com/episodes/937256/game-of-thrones-7x01-tba,7,1,60
